@@ -1,4 +1,5 @@
-ghcr.io/ggml-org/llama.cpp:server
+ultralytics/ultralytics:latest-cpu
+#ghcr.io/ggml-org/llama.cpp:server
 #hiyouga/llamafactory
 #ollama/ollama
 #ghcr.io/open-webui/open-webui
